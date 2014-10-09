@@ -29,7 +29,7 @@ Ubuntu Server 14.04 & MongoDB
 **development:**
 
 by default this vagrantfile have this configuration for shared folder between the host and the VM
-*[config.vm.synced_folder "~/Projects", "/vagrant"](https://github.com/mongodblisbon/vagrant-mongodb/blob/master/Vagrantfile#L25)*
+*[config.vm.synced_folder "~/Projects", "/vagrant"](https://github.com/mongodblisbon/vagrant-mongodb/blob/master/Vagrantfile#L23)*
 
 
 **Puppet Manifest will install:**
